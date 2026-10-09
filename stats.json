@@ -1,0 +1,132 @@
+{
+  "generatedAt": "10/10/2026 00:17:43",
+  "recipes": {
+    "total": 50,
+    "averageRating": 4.55,
+    "top5ByRating": [
+      {
+        "name": "Chicken Biryani",
+        "rating": 5
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "rating": 4.9
+      },
+      {
+        "name": "Chicken Alfredo Pasta",
+        "rating": 4.9
+      },
+      {
+        "name": "Mango Salsa Chicken",
+        "rating": 4.9
+      },
+      {
+        "name": "Japanese Ramen Soup",
+        "rating": 4.9
+      }
+    ],
+    "quickRecipes": [
+      {
+        "name": "Vegetarian Stir-Fry",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Chicken Alfredo Pasta",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Mango Salsa Chicken",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Tomato Basil Bruschetta",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Caprese Salad",
+        "prepTimeMinutes": 10
+      },
+      {
+        "name": "Shrimp Scampi Pasta",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Moroccan Chickpea Tagine",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Mango Lassi",
+        "prepTimeMinutes": 10
+      },
+      {
+        "name": "Blueberry Banana Smoothie",
+        "prepTimeMinutes": 10
+      },
+      {
+        "name": "Mexican Street Corn (Elote)",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Lebanese Falafel Wrap",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Brazilian Caipirinha",
+        "prepTimeMinutes": 5
+      },
+      {
+        "name": "Vietnamese Fresh Spring Rolls",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Moroccan Couscous Salad",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Classic Mojito",
+        "prepTimeMinutes": 10
+      },
+      {
+        "name": "Caprese Bruschetta",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Teriyaki Chicken Stir-Fry",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Mango Avocado Salsa",
+        "prepTimeMinutes": 10
+      },
+      {
+        "name": "Shrimp and Asparagus Stir-Fry",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Pesto Pasta with Cherry Tomatoes",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Mediterranean Chickpea Salad",
+        "prepTimeMinutes": 15
+      },
+      {
+        "name": "Pineapple Coconut Smoothie",
+        "prepTimeMinutes": 10
+      }
+    ]
+  },
+  "users": {
+    "total": 208,
+    "averageAge": 34,
+    "youngest": 24,
+    "oldest": 47,
+    "byCountry": {
+      "United States": 208
+    }
+  }
+}
